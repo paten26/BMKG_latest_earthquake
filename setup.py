@@ -12,7 +12,7 @@ setup(
     install_requires=[],  # Tambahkan dependensi di sini
     author='Lukas Yulianto',
     author_email='paten26@gmail.com',
-    description='his package get the last update earthquake from BMKG Indonesia',
+    description='This package get the last update earthquake from BMKG Indonesia',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/paten26/BMKG_latest_earthquake',  # URL repositori
