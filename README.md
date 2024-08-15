@@ -7,3 +7,6 @@ to get latest quake in Indonesia
 
 This package uses BeautifulSoup4 and Requests to produce output in JSON format.
 
+# Author
+Lukas Yulianto
+
