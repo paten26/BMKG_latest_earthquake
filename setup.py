@@ -7,9 +7,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='newearthquake-BMKG',
-    version='0.1.1',
+    version='0.2',
     packages=find_packages(),
-    install_requires=[],  # Tambahkan dependensi di sini
+    install_requires=[],
     author='Lukas Yulianto',
     author_email='paten26@gmail.com',
     description='This package get the last update earthquake from BMKG Indonesia',
